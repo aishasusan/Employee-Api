@@ -11,4 +11,4 @@ spring:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
     show-sql: true
 server:
-  port: 8081
+  port: 8084
